@@ -201,7 +201,7 @@ input[type=text]:focus{
        </div>
      
         <div class="sixtwo" id="sixtwo"  >
-     <div class="tt">     <hr />  <div class="text-center" style="font-size:22px;color:rgb(255, 165, 0);font-weight:bold"><label class="def">DETAILS REGARDING EXTENSION ACTIVITIES</label></div>
+     <div class="tt">     <hr />  <div class="text-center" style="font-size:22px;color:rgb(255, 165, 0);font-weight:bold"><label class="def">DETAILS REGARDING  EXTENSION  ACTIVITIES </label> </div>
          <table style="width:100%">
              <tr>
                  <td style="width:60%"><label >Name of the activity</label></td>
